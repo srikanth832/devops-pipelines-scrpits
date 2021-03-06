@@ -1,0 +1,11 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /root/my-app/helm
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../                                            0 Tue Feb 23 10:28:30 2021
+./                                             0 Tue Feb 23 10:29:20 2021
+node-app/                                      0 Tue Feb 23 09:28:20 2021
+~

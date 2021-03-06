@@ -1,0 +1,6 @@
+usermod -aG root jenkins
+usermod -aG docker jenkins
+systemctl daemon-reload
+systemctl restart docker
+vi /lib/systemd/system/docker.service
+we can add here Execstart -H tcp://0.0.0.0:2375 -H
